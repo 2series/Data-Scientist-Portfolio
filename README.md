@@ -63,7 +63,7 @@ In this project, I developed a recommendation engine's algorithm with IBM commun
 
 In the capstone project, I built a distributed machine learning for a user log using spark - the big data technology toolkit. The primary objective was to predict the churning possibilities of every user. Most of the data visualizations were completed on a small subset of the data, while the full dataset analytics were performed using AWS's EMR services.
 
-[Project Notebook: Spark - Subset Analytics]()
+[Project Notebook: Spark - Subset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Capstone%20Project/Spark%20-%20Subset%20Analytics.ipynb)
 
-[Project Notebook: Spark - Full Dataset Analytics]()
+[Project Notebook: Spark - Full Dataset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Capstone%20Project/Spark%20-%20Full%20Dataset.ipynb)
 

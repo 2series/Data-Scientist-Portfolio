@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Scientist Portfolio
 
 ### Project 1 - Predicting Donors' Income using supervised learning
 

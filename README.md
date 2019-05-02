@@ -1,6 +1,6 @@
 ## Data Scientist Portfolio
 
-<img src="./images/ds.png"/>
+<img src="./image_gallery/ds.jpg"/>
 
 ### Project 1 - Predicting Donors' Income using supervised learning
 

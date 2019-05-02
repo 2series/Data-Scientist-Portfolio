@@ -8,8 +8,7 @@
 
 I employed several supervised algorithms of your choice to accurately model individuals' income using data collected from the 1994 U.S. Census. I then chose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. My goal with this implementation was to construct a model that accurately predicts whether an individual makes more than $50,000. 
 
-[Project Notebook: Finding Donors](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%201%20-%20Finding%20Donars/finding_donors.ipynb)
-
+[Project Notebook: Finding Donors](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%201%20-%20Finding%20Donors/finding_donors.ipynb)
 
 ### Project 2 - Flower Image Classifier Application
 
@@ -29,7 +28,7 @@ I applied unsupervised learning techniques to identify segments of the populatio
 
 First, the general demographics data are clustered through a KMeans clustering algorithms, then the same parameters are applied over the customer dataset to investigate if the customers are following the same distributions.
 
-[Project Notebook: Customer Segmentations](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%203%20-%20Identify%20Customer%20Segementation/Identify_Customer_Segments.ipynb)
+[Project Notebook: Customer Segmentations](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%203%20-%20Identify%20Customer%20Segmentation/Identify_Customer_Segments.ipynb)
 
 ### Project 4 - Data Science
 
@@ -37,7 +36,7 @@ First, the general demographics data are clustered through a KMeans clustering a
 
 I analyzed the 2011 - 2018 Stack Overflow developer survey data in order to create a blog post regarding a comprehensive study of data science careers. The project notebook could be found below
 
-[Project Notebook: Understanding the Career of Data Scientists](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%204%20-%20Data%20Science%20Blog/Understanding%20the%20Career%20of%20Data%20Scientists.ipynb) 
+[Project Notebook: Understanding the Career of Data Scientists](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%204%20-%20Data%20Science/Understanding%20the%20Career%20of%20Data%20Scientists.ipynb) 
 
 ### Project 5 - Disaster Response Pipeline
 
@@ -55,7 +54,7 @@ I built a data transformation - machine learning pipeline that is capable to cur
 
 I developed a recommendation engine's algorithm with IBM communities articles and user interactions. This project will serve as a prototype of the recommender systems of the article recommendation systems by IBM.
 
-[Project Notebook: Recommendations with IBM](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%206%20-%20Reccomendation%20System/Recommendations_with_IBM.ipynb)
+[Project Notebook: Recommendations with IBM](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%206%20-%20Recommendation%20System/Recommendations_with_IBM.ipynb)
 
 ### Project 7 - Spark Distributed Analytics
 
@@ -63,7 +62,7 @@ I developed a recommendation engine's algorithm with IBM communities articles an
 
 I built a distributed machine learning model for a user log using spark - the big data technology toolkit. The primary objective was to predict the churning possibilities of every user. Most of the data visualizations were completed on a small subset of the data, while the full dataset analytics were performed using AWS's EMR services.
 
-[Project Notebook: Spark - Subset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Capstone%20Project/Spark%20-%20Subset%20Analytics.ipynb)
+[Project Notebook: Spark - Subset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%207%20-%20Capstone/Spark%20-%20Subset%20Analytics.ipynb)
 
-[Project Notebook: Spark - Full Dataset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Capstone%20Project/Spark%20-%20Full%20Dataset.ipynb)
+[Project Notebook: Spark - Full Dataset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%207%20-%20Capstone/Spark%20-%20Full%20Dataset.ipynb)
 

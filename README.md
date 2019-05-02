@@ -47,8 +47,6 @@ In this project, I built a data transformation - machine learning pipeline that 
 
 [Prject Notebook: Machine Learning Pipeline](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%205%20-%20Disaster%20Response%20Pipeline/ML%20Pipeline%20Preparation.ipynb)
 
-[rdisaster-response]()
-
 ### Project 6 - Recommendation System
 
 **Description:**

@@ -1,6 +1,6 @@
-# Understanding Data Scientist Careers in a Data Science Way
+## Understanding Data Scientist Careers in a Data Science Way
 
-**Project Motivation**
+### Motivation
 
 For this project, I was interestested in using 2011 - 2018 Stack Overflow developer survey data to better understand the career of data scientists. In particular, the questions I interested in are
 
@@ -8,7 +8,7 @@ For this project, I was interestested in using 2011 - 2018 Stack Overflow develo
 * Do data scientists get paid higher salaries for working hard?
 * What skills are required to become a data scientist?
 
-**Installation**
+### Required Packages
 
 No extra besides the built-in libraries from Anaconda needed to run this project
 
@@ -18,12 +18,12 @@ No extra besides the built-in libraries from Anaconda needed to run this project
 * glob
 * os
 
-**File Descriptions**
+### File Descriptions
 
 * data: Folder contains data files of StackOverflow developer survey data, following name conventions of "YYYY Stack Overflow Survey Responses.csv"
 * Understanding the Career of Data Scientists.ipynb: The Jupyter Notebook used for the main analytics
 
-**Results**
+### Results
 
 The main takeaways from this analytics are:
 
@@ -31,6 +31,6 @@ The main takeaways from this analytics are:
 * Data scientists work hard, but they are satisfied with their careers
 * Versatile programming skills and strong commnunication skills are needed for data scientists
 
-**Licensing Acknowledgements**
+### Licensing Acknowledgements
 
 Thank you for @StackOverflow for sharing your developer survey for multiple years!

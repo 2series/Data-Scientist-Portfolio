@@ -1,4 +1,4 @@
-# Capstone Project - Sparkify Music Service Analytics
+## Capstone Project - Sparkify Music Service Analytics
 
 ### Motivation
 
@@ -35,5 +35,5 @@ Using the user information logs, we will attempt to predict the possiblities of 
 
 ### Model Refinement
 
-The presented model represents the best model I have constructed so far. Originally I only used the all the activities in *page* as features, which yielded 0.69 F1 score on the small test set we have. After I engineered 6 other features as noted in the project, I was able to obtain an F1 score of 0.80 (0.88 after scale up to the large dataset).
+The model represents the best outcome I've managed to achieved. Originally I only used the all the activities in *page* as features, which yielded 0.69 F1 score on the small test set we have. After I engineered 6 other features as noted in the project, I was able to obtain an F1 score of 0.80 (0.88 after scale up to the large dataset).
 

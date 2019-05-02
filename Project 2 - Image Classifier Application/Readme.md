@@ -1,4 +1,4 @@
-# Deep Learning 
+## Deep Learning 
 
 ### Project: Image Classifier Project 
 

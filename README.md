@@ -66,3 +66,5 @@ I built a distributed machine learning model for a user log using spark - the bi
 
 [Project Notebook: Spark - Full Dataset Analytics](https://github.com/2series/Data-Scientist-Portfolio/blob/master/Project%207%20-%20Capstone/Spark%20-%20Full%20Dataset.ipynb)
 
+![](https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif)
+
